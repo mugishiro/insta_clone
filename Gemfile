@@ -13,6 +13,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'dotenv-rails'
 
 group :development, :test do
   gem 'sqlite3'
